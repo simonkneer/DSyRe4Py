@@ -307,7 +307,7 @@ Dissertation, TU Dresden (2025), URL: [https://nbn-resolving.org/urn:nbn:de:bsz:
 N. B. Budanur and P. Cvitanović, "Unstable manifolds of relative
 periodic orbits in the symmetry-reduced state space of the kuramoto–sivashinsky system", J. Stat. Phys. 167, 636–655 (2016).
 
-S. Kneer and N. B. Budanur, "Learning the dynamics of symmetry-reduced chaotic attractors from data", Chaos (under revision).
+S. Kneer and N. B. Budanur, "Learning the dynamics of symmetry-reduced chaotic attractors from data", Chaos (2025, accepted).
 
 C. W. Rowley and J. E. Marsden, “Reconstruction equations
 and the karhunen–loève expansion for systems with symmetry,”
